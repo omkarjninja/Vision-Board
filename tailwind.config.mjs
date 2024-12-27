@@ -10,7 +10,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-      },
+      }, fontFamily: {
+        "lato": ['Lato', 'sans-serif']
+    }
     },
   },
   plugins: [],
